@@ -9,7 +9,6 @@ class City {
 }
 
 // Data for 1790 to 2010
-
 var data_1790 = [new City("New York, NY",1,33131,40.7128,-74.0060),new City("Philadelphia, PA",2,28522,39.9526,-75.1652),new City("Boston, MA",3,18320,42.3601,-71.0589),new City("Charleston, SC",4,16359,32.7765,-79.9311),new City("Baltimore, MD",5,13503,39.2904,-76.6122),new City("Northern Liberties, PA",6,9913,39.9637,-75.1399),new City("Salem, MA",7,7921,42.5195,-70.8967),new City("Newport, RI",8,6716,41.4901,-71.3128),new City("Providence, RI",9,6380,41.8240,-71.4128),new City("Marblehead, MA",10,5661,42.5000,-70.8578),new City("Southwark, PA",10,5661,39.9383,-75.1472),new City("Gloucester, MA",12,5317,42.6159,-70.6620),new City("Newburyport, MA",13,4837,42.8126,-70.8773),new City("Portsmouth, NH",14,4720,43.0718,-70.7626),new City("Nantucket, MA",15,4620,41.2835,-70.0995),new City("Middleborough, MA",16,4526,41.8930,-70.9108),new City("New Haven, CT",17,4487,41.3083,-72.9279),new City("Richmond, VA",18,3761,37.5407,-77.4360),new City("Albany, NY",19,3498,42.6526,-73.7562),new City("Norfolk, VA",20,2959,36.8508,-76.2859),new City("Petersburg, VA",21,2828,37.2279,-77.4019),new City("Alexandria, VA",22,2748,38.8048,-77.0469),new City("Hartford, CT",23,2683,41.7658,-72.6734),new City("Hudson, NY",24,2584,42.2529,-73.7910)];
 var data_1800 = [new City("New York, NY",1,60515,40.7128,-74.0060),new City("Philadelphia, PA",2,41220,39.9526,-75.1652),new City("Baltimore, MD",3,26514,39.2904,-76.6122),new City("Boston, MA",4,24937,42.3601,-71.0589),new City("Charleston, SC",5,18824,32.7765,-79.9311),new City("Northern Liberties, PA",6,10718,39.9637,-75.1399),new City("Southwark, PA",7,9621,39.9383,-75.1472),new City("Salem, MA",8,9457,42.5195,-70.8967),new City("Providence, RI",9,7614,41.8240,-71.4128),new City("Norfolk, VA",10,6926,36.8508,-76.2859),new City("Newport, RI",11,6739,41.4901,-71.3128),new City("Newburyport, MA",12,5946,42.8126,-70.8773),new City("Richmond, VA",13,5737,37.5407,-77.4360),new City("Nantucket, MA",14,5617,41.2835,-70.0995),new City("Portsmouth, NH",15,5339,43.0718,-70.7626),new City("Gloucester, MA",16,5313,42.6159,-70.6620),new City("Albany, NY",17,5289,42.6526,-73.7562),new City("Schenectady, NY",17,5289,42.8142,-73.9396),new City("Marblehead, MA",19,5211,42.5000,-70.8578),new City("New London, CT",20,5150,41.3557,-72.0995),new City("Savannah, GA",21,5146,32.0809,-81.0912),new City("Alexandria, VA",22,4971,38.8048,-77.0469),new City("Middleborough, MA",23,4458,41.8930,-70.9108),new City("New Bedford, MA",24,4361,41.6362,-70.9342),new City("Lancaster, PA",25,4292,40.0379,-76.3055),new City("New Haven, CT",26,4049,41.3083,-72.9279),new City("Portland, ME",27,3704,43.6591,-70.2568),new City("Hudson, NY",28,3664,42.2529,-73.7910),new City("Hartford, CT",29,3523,41.7658,-72.6734),new City("Petersburg, VA",30,3521,37.2279,-77.4019),new City("Washington, DC",31,3210,38.9072,-77.0369),new City("Georgetown, DC",32,2993,38.9097,-77.0654),new City("York, PA",33,2503,39.9626,-76.7277)];
 var data_1810 = [new City("New York, NY",1,96373,40.7128,-74.0060),new City("Philadelphia, PA",2,53722,39.9526,-75.1652),new City("Baltimore, MD",3,46555,39.2904,-76.6122),new City("Boston, MA",4,33787,42.3601,-71.0589),new City("Charleston, SC",5,24711,32.7765,-79.9311),new City("Northern Liberties, PA",6,19874,39.9637,-75.1399),new City("New Orleans, LA",7,17242,29.9511,-90.0715),new City("Southwark, PA",8,13707,39.9383,-75.1472),new City("Salem, MA",9,12613,42.5195,-70.8967),new City("Albany, NY",10,10762,42.6526,-73.7562),new City("Providence, RI",11,10071,41.8240,-71.4128),new City("Richmond, VA",12,9735,37.5407,-77.4360),new City("Norfolk, VA",13,9193,36.8508,-76.2859),new City("Washington, DC",14,8208,38.9072,-77.0369),new City("Newport, RI",15,7907,41.4901,-71.3128),new City("Newburyport, MA",16,7634,42.8126,-70.8773),new City("Alexandria, VA",17,7227,38.8048,-77.0469),new City("Portland, ME",18,7169,43.6591,-70.2568),new City("Portsmouth, NH",19,6934,43.0718,-70.7626),new City("Nantucket, MA",20,6807,41.2835,-70.0995),new City("Gloucester, MA",21,5943,42.6159,-70.6620),new City("Schenectady, NY",22,5903,42.8142,-73.9396),new City("Marblehead, MA",23,5900,42.5000,-70.8578),new City("New Haven, CT",24,5772,41.3083,-72.9279),new City("Petersburg, VA",25,5668,37.2279,-77.4019),new City("New Bedford, MA",26,5651,41.6362,-70.9342),new City("Lancaster, PA",27,5405,40.0379,-76.3055),new City("Savannah, GA",28,5215,32.0809,-81.0912),new City("Charlestown, MA",29,4959,42.3782,-71.0602),new City("Georgetown, DC",30,4948,38.9097,-77.0654),new City("Pittsburgh, PA",31,4768,40.4406,-79.9959),new City("Beverly, MA",32,4608,42.5584,-70.8800),new City("Brooklyn, NY",33,4402,40.6782,-73.9442),new City("Middleborough, MA",34,4400,41.8930,-70.9108),new City("Lexington, KY",35,4326,38.0406,-84.5037),new City("Plymouth, MA",36,4228,41.9584,-70.6673),new City("Lynn, MA",37,4087,42.4668,-70.9495),new City("Hudson, NY",38,4048,42.2529,-73.7910),new City("Hartford, CT",39,3955,41.7658,-72.6734),new City("Reading, PA",40,3462,40.3356,-75.9269),new City("New London, CT",41,3238,41.3557,-72.0995),new City("Trenton, NJ",42,3002,40.2206,-74.7597),new City("Elizabeth, NJ",43,2977,40.6640,-74.2107),new City("Norwich, CT",44,2976,41.5243,-72.0759),new City("York, PA",45,2847,39.9626,-76.7277),new City("Cincinnati, OH",46,2540,39.1031,-84.5120)];
@@ -34,7 +33,17 @@ var data_1990 = [new City("New York, NY",1,7322564,40.7128,-74.0060),new City("L
 var data_2000 = [new City("New York, NY",1,8008278,40.7128,-74.0060),new City("Los Angeles, CA",2,3694820,34.0522,-118.2437),new City("Chicago, IL",3,2896016,41.8781,-87.6298),new City("Houston, TX",4,1953631,29.7604,-95.3698),new City("Philadelphia, PA",5,1517550,39.9526,-75.1652),new City("Phoenix, AZ",6,1321045,33.4484,-112.0740),new City("San Diego, CA",7,1223400,32.7157,-117.1611),new City("Dallas, TX",8,1188580,32.7767,-96.7970),new City("San Antonio, TX",9,1144646,29.4241,-98.4936),new City("Detroit, MI",10,951270,42.3314,-83.0458),new City("San Jose, CA",11,894943,37.3382,-121.8863),new City("Indianapolis, IN",12,781870,39.7684,-86.1581),new City("San Francisco, CA",13,776733,37.7749,-122.4194),new City("Jacksonville, FL",14,735617,30.3322,-81.6557),new City("Columbus, OH",15,711470,39.9612,-82.9988),new City("Austin, TX",16,656562,30.2672,-97.7431),new City("Baltimore, MD",17,651154,39.2904,-76.6122),new City("Memphis, TN",18,650100,35.1495,-90.0490),new City("Milwaukee, WI",19,596974,43.0389,-87.9065),new City("Boston, MA",20,589141,42.3601,-71.0589),new City("Washington, DC",21,572059,38.9072,-77.0369),new City("El Paso, TX",22,563662,31.7619,-106.4850),new City("Seattle, WA",23,563374,47.6062,-122.3321),new City("Denver, CO",24,554636,39.7392,-104.9903),new City("Nashville-Davidson, TN",25,545524,36.1627,-86.7816),new City("Charlotte, NC",26,540828,35.2271,-80.8431),new City("Fort Worth, TX",27,534694,32.7555,-97.3308),new City("Portland, OR",28,529121,45.5051,-122.6750),new City("Oklahoma City, OK",29,506132,35.4676,-97.5164),new City("Tucson, AZ",30,486699,32.2226,-110.9747),new City("New Orleans, LA",31,484674,29.9511,-90.0715),new City("Las Vegas, NV",32,478434,36.1699,-115.1398),new City("Las Vegas, NV",32,478434,36.1989,-115.1175),new City("Cleveland, OH",33,478403,41.4993,-81.6944),new City("Long Beach, CA",34,461522,33.7701,-118.1937),new City("Albuquerque, NM",35,448607,35.0844,-106.6504),new City("Kansas City, MO",36,441545,39.0997,-94.5786),new City("Fresno, CA",37,427652,36.7378,-119.7871),new City("Virginia Beach, VA",38,425257,36.8529,-75.9780),new City("Atlanta, GA",39,416474,33.7490,-84.3880),new City("Sacramento, CA",40,407018,38.5816,-121.4944),new City("Oakland, CA",41,399484,37.8044,-122.2712),new City("Mesa, AZ",42,396375,33.4152,-111.8315),new City("Tulsa, OK",43,393049,36.1540,-95.9928),new City("Omaha, NE",44,390007,41.2565,-95.9345),new City("Minneapolis, MN",45,382618,44.9778,-93.2650),new City("Honolulu, HI",46,371657,21.3069,-157.8583),new City("Miami, FL",47,362470,25.7617,-80.1918),new City("Colorado Springs, CO",48,360890,38.8339,-104.8214),new City("St Louis, MO",49,348189,38.6270,-90.1994),new City("Wichita, KS",50,344284,37.6872,-97.3301),new City("Santa Ana, CA",51,337977,33.7455,-117.8677),new City("Pittsburgh, PA",52,334563,40.4406,-79.9959),new City("Arlington, TX",53,332969,32.7357,-97.1081),new City("Cincinnati, OH",54,331285,39.1031,-84.5120),new City("Anaheim, CA",55,328014,33.8366,-117.9143),new City("Toledo, OH",56,313619,41.6528,-83.5379),new City("Tampa, FL",57,303447,27.9506,-82.4572),new City("Buffalo, NY",58,292648,42.8864,-78.8784),new City("St Paul, MN",59,287151,44.9537,-93.0900),new City("Corpus Christi, TX",60,277454,27.8006,-97.3964),new City("Aurora, CO",61,276393,39.7294,-104.8319),new City("Raleigh, NC",62,276093,35.7796,-78.6382),new City("Newark, NJ",63,273546,40.7357,-74.1724),new City("Lexington-Fayette, KY",64,260512,38.0406,-84.5037),new City("Anchorage, AK",65,260283,61.2181,-149.9003),new City("Louisville, KY",66,256231,38.2527,-85.7585),new City("Riverside, CA",67,255166,33.9806,-117.3755),new City("St Petersburg, FL",68,248232,27.7676,-82.6403),new City("Bakersfield, CA",69,247057,35.3733,-119.0187),new City("Stockton, CA",70,243771,37.9577,-121.2908),new City("Birmingham, AL",71,242820,33.5186,-86.8104),new City("Jersey City, NJ",72,240055,40.7178,-74.0431),new City("Norfolk, VA",73,234403,36.8508,-76.2859),new City("Baton Rouge, LA",74,227818,30.4515,-91.1871),new City("Hialeah, FL",75,226419,25.8576,-80.2781),new City("Lincoln, NE",76,225581,40.8136,-96.7026),new City("Greensboro, NC",77,223891,36.0726,-79.7920),new City("Plano, TX",78,222030,33.0198,-96.6989),new City("Rochester, NY",79,219773,43.1566,-77.6088),new City("Glendale, AZ",80,218812,33.5387,-112.1860),new City("Akron, OH",81,217074,41.0814,-81.5190),new City("Garland, TX",82,215768,32.9126,-96.6389),new City("Madison, WI",83,208054,43.0731,-89.4012),new City("Fort Wayne, IN",84,205727,41.0793,-85.1394),new City("Fremont, CA",85,203413,37.5485,-121.9886),new City("Scottsdale, AZ",86,202705,33.4942,-111.9261),new City("Montgomery, AL",87,201568,32.3792,-86.3077),new City("Shreveport, LA",88,200145,32.5252,-93.7502),new City("Lubbock, TX",89,199564,33.5779,-101.8552),new City("Chesapeake, VA",90,199184,36.7682,-76.2875),new City("Mobile, AL",91,198915,30.6954,-88.0399),new City("Des Moines, IA",92,198682,41.5868,-93.6250),new City("Grand Rapids, MI",93,197800,42.9634,-85.6681),new City("Richmond, VA",94,197790,37.5407,-77.4360),new City("Yonkers, NY",95,196086,40.9312,-73.8987),new City("Spokane, WA",96,195629,47.6588,-117.4260),new City("Augusta-Richmond, GA",97,195182,33.4735,-82.0105),new City("Glendale, CA",98,194973,34.1425,-118.2551),new City("Tacoma, WA",99,193556,47.2529,-122.4443),new City("Irving, TX",100,191615,32.8140,-96.9489)];
 var data_2010 = [new City("New York, NY",1,8175133,40.7128,-74.0060),new City("Los Angeles, CA",2,3792621,34.0522,-118.2437),new City("Chicago, IL",3,2695598,41.8781,-87.6298),new City("Houston, TX",4,2099451,29.7604,-95.3698),new City("Philadelphia, PA",5,1526006,39.9526,-75.1652),new City("Phoenix, AZ",6,1445632,33.4484,-112.0740),new City("San AntonioTX",7,1327407,29.4241,-98.4936),new City("San Diego, CA",8,1307402,32.7157,-117.1611),new City("Dallas, TX",9,1197816,32.7767,-96.7970),new City("San Jose, CA",10,945942,37.3382,-121.8863),new City("Jacksonville, FL",11,821784,30.3322,-81.6557),new City("Indianapolis, IN",12,820445,39.7684,-86.1581),new City("San Francisco, CA",13,805235,37.7749,-122.4194),new City("Austin, TX",14,790390,30.2672,-97.7431),new City("Columbus, OH",15,787033,39.9612,-82.9988),new City("Fort Worth, TX",16,741206,32.7555,-97.3308),new City("Louisville, KY",17,741096,38.2527,-85.7585),new City("Charlotte, NC",18,731424,35.2271,-80.8431),new City("Detroit, MI",19,713777,42.3314,-83.0458),new City("El Paso, TX",20,649121,31.7619,-106.4850),new City("Memphis, TN",21,646889,35.1495,-90.0490),new City("Baltimore, MD",22,620961,39.2904,-76.6122),new City("Boston, MA",23,617594,42.3601,-71.0589),new City("Seattle, WA",24,608660,47.6062,-122.3321),new City("Washington, DC",25,601723,38.9072,-77.0369),new City("Nashville, TN",26,601222,36.1627,-86.7816),new City("Denver, CO",27,600158,39.7392,-104.9903),new City("Milwaukee, WI",28,594833,43.0389,-87.9065),new City("Portland, OR",29,583776,45.5051,-122.6750),new City("Las Vegas, NV",30,583756,36.1699,-115.1398),new City("Las Vegas, NV",30,583756,36.1989,-115.1175),new City("Las Vegas, NV",30,583756,36.1699,-115.1398),new City("Las Vegas, NV",30,583756,36.1989,-115.1175),new City("Oklahoma City, OK",31,579999,35.4676,-97.5164),new City("Albuquerque, NM",32,545852,35.0844,-106.6504),new City("Tucson, AZ",33,520116,32.2226,-110.9747),new City("Fresno, CA",34,494665,36.7378,-119.7871),new City("Sacramento, CA",35,466488,38.5816,-121.4944),new City("Long Beach, CA",36,462257,33.7701,-118.1937),new City("Kansas City, MO",37,459787,39.0997,-94.5786),new City("Mesa, AZ",38,439041,33.4152,-111.8315),new City("Virginia Beach, VA",39,437994,36.8529,-75.9780),new City("Atlanta, GA",40,420003,33.7490,-84.3880),new City("Colorado Springs, CO",41,416427,38.8339,-104.8214),new City("Omaha, NE",42,408958,41.2565,-95.9345),new City("Raleigh, NC",43,403892,35.7796,-78.6382),new City("Miami, FL",44,399457,25.7617,-80.1918),new City("Cleveland, OH",45,396815,41.4993,-81.6944),new City("San Juan, PR",46,395326,18.4655,-66.1057),new City("Tulsa, OK",47,391906,36.1540,-95.9928),new City("Oakland, CA",48,390724,37.8044,-122.2712),new City("Minneapolis, MN",49,382578,44.9778,-93.2650),new City("Wichita, KS",50,382368,37.6872,-97.3301),new City("Arlington, TX",51,365438,32.7357,-97.1081),new City("Bakersfield, CA",52,347483,35.3733,-119.0187),new City("New Orleans, LA",53,343829,29.9511,-90.0715),new City("Honolulu, HI",54,337256,21.3069,-157.8583),new City("Anaheim, CA",55,336265,33.8366,-117.9143),new City("Tampa, FL",56,335709,27.9506,-82.4572),new City("Aurora, CO",57,325078,39.7294,-104.8319),new City("Santa Ana, CA",58,324528,33.7455,-117.8677),new City("St Louis, MO",59,319294,38.6270,-90.1994),new City("Pittsburgh, PA",60,305704,40.4406,-79.9959),new City("Corpus Christi, TX",61,305215,27.8006,-97.3964),new City("Riverside, CA",62,303871,33.9806,-117.3755),new City("Cincinnati, OH",63,296943,39.1031,-84.5120),new City("Lexington, KY",64,295803,38.0406,-84.5037),new City("Anchorage, AK",65,291826,61.2181,-149.9003),new City("Stockton, CA",66,291707,37.9577,-121.2908),new City("Toledo, OH",67,287208,41.6528,-83.5379),new City("St Paul, MN",68,285068,44.9537,-93.0900),new City("Newark, NJ",69,277140,40.7357,-74.1724),new City("Greensboro, NC",70,269666,36.0726,-79.7920),new City("Buffalo, NY",71,261310,42.8864,-78.8784),new City("Plano, TX",72,259841,33.0198,-96.6989),new City("Lincoln, NE",73,258379,40.8136,-96.7026),new City("Henderson, NV",74,257729,36.0395,-114.9817),new City("Fort Wayne, IN",75,253691,41.0793,-85.1394),new City("Jersey City, NJ",76,247597,40.7178,-74.0431),new City("Saint Petersburg, FL",77,244769,27.7676,-82.6403),new City("Chula Vista, CA",78,243916,32.6401,-117.0842),new City("Norfolk, VA",79,242803,36.8508,-76.2859),new City("Orlando, FL",80,238300,28.5383,-81.3792),new City("Chandler, AZ",81,236123,33.3062,-111.8413),new City("Laredo, TX",82,236091,27.5036,-99.5076),new City("Madison, WI",83,233209,43.0731,-89.4012),new City("Winston-Salem, NC",84,229617,36.0999,-80.2442),new City("Lubbock, TX",85,229573,33.5779,-101.8552),new City("Baton Rouge, LA",86,229493,30.4515,-91.1871),new City("Durham, NC",87,228330,35.9940,-78.8986),new City("Garland, TX",88,226876,32.9126,-96.6389),new City("Glendale, AZ",89,226721,33.5387,-112.1860),new City("Reno, NV",90,225221,39.5296,-119.8138),new City("Hialeah, FL",91,224669,25.8576,-80.2781),new City("Chesapeake, VA",92,222209,36.7682,-76.2875),new City("Scottsdale, AZ",93,217385,33.4942,-111.9261),new City("North Las Vegas, NV",94,216961,36.1989,-115.1175),new City("Irving, TX",95,216290,32.8140,-96.9489),new City("Fremont, CA",96,214089,37.5485,-121.9886),new City("Irvine, CA",97,212375,33.6846,-117.8265),new City("Birmingham, AL",98,212237,33.5186,-86.8104),new City("Rochester, NY",99,210565,43.1566,-77.6088),new City("San Bernardino, CA",100,209924,34.1083,-117.2898)];
 
-var us_populations = [3893635, 5308483, 7239881, 9638453, 12866020, 17069453, 23191876, 31443321, 38925598, 50189209, 62979766, 76212168, 92228496, 106021537, 123202624, 132164569, 150697361, 179323175, 203392031, 226545805, 248709873, 281421906, 308745538];
+class CityLocation {
+  constructor(name, lat, long){
+    this.name = name;
+    this.lat = lat;
+    this.long = long;
+  }
+}
+
+cityLocations = [new CityLocation("New York, NY",40.7128,-74.0060),new CityLocation("Fayetteville, NC",35.0527,-78.8784),new CityLocation("Philadelphia, PA",39.9526,-75.1652),new CityLocation("Elizabeth, NJ",40.6640,-74.2107),new CityLocation("Baltimore, MD",39.2904,-76.6122),new CityLocation("Spring Garden, PA",39.9657,-75.1688),new CityLocation("Boston, MA",42.3601,-71.0589),new CityLocation("New London, CT",41.3557,-72.0995),new CityLocation("New Orleans, LA",29.9511,-90.0715),new CityLocation("Harrisburg, PA",40.2732,-76.8867),new CityLocation("Charleston, SC",32.7765,-79.9311),new CityLocation("Norwich, CT",41.5243,-72.0759),new CityLocation("Northern Liberties, PA",39.9637,-75.1399),new CityLocation("Utica, NY",43.1009,-75.2327),new CityLocation("Southwark, PA",39.9383,-75.1472),new CityLocation("Carlisle, PA",40.2010,-77.2003),new CityLocation("Washington, DC",38.9072,-77.0369),new CityLocation("Raleigh, NC",35.7796,-78.6382),new CityLocation("Salem, MA",42.5195,-70.8967),new CityLocation("Wilmington, NC",34.2104,-77.8868),new CityLocation("Albany, NY",42.6526,-73.7562),new CityLocation("Middletown, CT",41.5623,-72.6506),new CityLocation("Richmond, VA",37.5407,-77.4360),new CityLocation("Providence, RI",41.8240,-71.4128),new CityLocation("Cincinnati, OH",39.1031,-84.5120),new CityLocation("Portland, ME",43.6591,-70.2568),new CityLocation("Norfolk, VA",36.8508,-76.2859),new CityLocation("Alexandria, VA",38.8048,-77.0469),new CityLocation("Savannah, GA",32.0809,-81.0912),new CityLocation("Georgetown, DC",38.9097,-77.0654),new CityLocation("Portsmouth, NH",43.0718,-70.7626),new CityLocation("Newport, RI",41.4901,-71.3128),new CityLocation("Nantucket, MA",41.2835,-70.0995),new CityLocation("Pittsburgh, PA",40.4406,-79.9959),new CityLocation("Brooklyn, NY",40.6782,-73.9442),new CityLocation("New Haven, CT",41.3083,-72.9279),new CityLocation("Kensington, PA",39.9934,-75.1180),new CityLocation("Newburyport, MA",42.8126,-70.8773),new CityLocation("Petersburg, VA",37.2279,-77.4019),new CityLocation("Lancaster, PA",40.0379,-76.3055),new CityLocation("Charlestown, MA",42.3782,-71.0602),new CityLocation("Gloucester, MA",42.6159,-70.6620),new CityLocation("Marblehead, MA",42.5000,-70.8578),new CityLocation("Hudson, NY",42.2529,-73.7910),new CityLocation("Lexington, KY",38.0406,-84.5037),new CityLocation("Troy, NY",42.7284,-73.6918),new CityLocation("Hartford, CT",41.7658,-72.6734),new CityLocation("Middleborough, MA",41.8930,-70.9108),new CityLocation("Taunton, MA",41.9001,-71.0898),new CityLocation("Lynn, MA",42.4668,-70.9495),new CityLocation("Plymouth, MA",41.9584,-70.6673),new CityLocation("Reading, PA",40.3356,-75.9269),new CityLocation("Beverly, MA",42.5584,-70.8800),new CityLocation("Roxbury, MA",42.3152,-71.0914),new CityLocation("Louisville, KY",38.2527,-85.7585),new CityLocation("New Bedford, MA",41.6362,-70.9342),new CityLocation("Trenton, NJ",40.2206,-74.7597),new CityLocation("Schenectady, NY",42.8142,-73.9396),new CityLocation("New Bern, NC",35.1085,-77.0441),new CityLocation("Frederick, MD",39.4143,-77.4105),new CityLocation("York, PA",39.9626,-76.7277),new CityLocation("Warwick, RI",41.7001,-71.4162),new CityLocation("Dover, NH",43.1979,-70.8737),new CityLocation("St Louis, MO",38.6270,-90.1994),new CityLocation("Lynchburg, VA",37.4138,-79.1422),new CityLocation("Andover, MA",42.6583,-71.1368),new CityLocation("Danvers, MA",42.5750,-70.9321),new CityLocation("Worcester, MA",42.2626,-71.8023),new CityLocation("Fall River, MA",41.7015,-71.1550),new CityLocation("Dorchester, MA",42.3016,-71.0676),new CityLocation("Newark, NJ",40.7357,-74.1724),new CityLocation("Rochester, NY",43.1566,-77.6088),new CityLocation("Easton, PA",40.6884,-75.2207),new CityLocation("Buffalo, NY",42.8864,-78.8784),new CityLocation("Hagerstown, MD",39.6418,-77.7200),new CityLocation("Columbia, SC",34.0007,-81.0348),new CityLocation("Fredericksburg, VA",38.3032,-77.4605),new CityLocation("Mobile, AL",30.6954,-88.0399),new CityLocation("Zanesville, OH",39.9403,-82.0132),new CityLocation("Dayton, OH",39.7589,-84.1916),new CityLocation("Steubenville, OH",40.3698,-80.6340),new CityLocation("Chillicothe, OH",39.3331,-82.9824),new CityLocation("Allegheny, PA",40.4451,-80.0088),new CityLocation("Natchez, MS",31.5604,-91.4032),new CityLocation("Moyamensing, PA",39.9204,-75.1648),new CityLocation("Annapolis, MD",38.9784,-76.4922),new CityLocation("Springfield, MA",42.1015,-72.5898),new CityLocation("Augusta, GA",33.4735,-82.0105),new CityLocation("Lowell, MA",42.6334,-71.3162),new CityLocation("Cambridge, MA",42.3736,-71.1097),new CityLocation("Nashville, TN",36.1627,-86.7816),new CityLocation("Wheeling, VA",40.0640,-80.7209),new CityLocation("Paterson, NJ",40.9168,-74.1718),new CityLocation("Portsmouth, VA",36.8354,-76.2983),new CityLocation("Cleveland, OH",41.4993,-81.6944),new CityLocation("Nashua, NH",42.7654,-71.4676),new CityLocation("Columbus, OH",39.9612,-82.9988),new CityLocation("Auburn, NY",42.9317,-76.5661),new CityLocation("Augusta, ME",44.3106,-69.7795),new CityLocation("Cumberland, RI",41.9722,-71.4062),new CityLocation("Bath, ME",43.9106,-69.8206),new CityLocation("Gardiner, ME",44.2301,-69.7753),new CityLocation("Concord, NH",43.2081,-71.5376),new CityLocation("Detroit, MI",42.3314,-83.0458),new CityLocation("Chicago, IL",41.8781,-87.6298),new CityLocation("Bangor, ME",44.8016,-68.7712),new CityLocation("Pottsville, PA",40.6856,-76.1955),new CityLocation("Haverhill, MA",42.7762,-71.0773),new CityLocation("Barnstable, MA",41.7003,-70.3002),new CityLocation("Wilmington, DE",39.7447,-75.5484),new CityLocation("New Albany, IN",38.2856,-85.8241),new CityLocation("Manchester, NH",42.9956,-71.4548),new CityLocation("Oswego, NY",43.4553,-76.5105),new CityLocation("Poughkeepsie, NY",41.7004,-73.9210),new CityLocation("Camden, NJ",39.9259,-75.1196),new CityLocation("Covington, KY",39.0837,-84.5086),new CityLocation("Williamsburgh, NY",40.7081,-73.9571),new CityLocation("Memphis, TN",35.1495,-90.0490),new CityLocation("Montgomery, AL",32.3792,-86.3077),new CityLocation("Syracuse, NY",43.0481,-76.1474),new CityLocation("Chicopee MA",42.1487,-72.6079),new CityLocation("Lawrence, MA",42.7070,-71.1631),new CityLocation("Milwaukee, WI",43.0389,-87.9065),new CityLocation("Indianapolis, IN",39.7684,-86.1581),new CityLocation("Madison, IN",38.7359,-85.3800),new CityLocation("North Providence, RI",41.8536,-71.4677),new CityLocation("Watervliet, NY",42.7301,-73.7012),new CityLocation("San Francisco, CA",37.7749,-122.4194),new CityLocation("Peoria, IL",40.6936,-89.5890),new CityLocation("Lafayette, LA",30.2241,-92.0198),new CityLocation("Sacramento, CA",38.5816,-121.4944),new CityLocation("Toledo, OH",41.6528,-83.5379),new CityLocation("Quincy, IL",39.9356,-91.4099),new CityLocation("Chelsea, MA",42.3918,-71.0328),new CityLocation("Dubuque, IA",42.5023,-90.6655),new CityLocation("Newburgh, NY",41.5034,-74.0104),new CityLocation("Jersey City, NJ",40.7178,-74.0431),new CityLocation("Bridgeport, CT",41.1792,-73.1894),new CityLocation("Evansville, IN",37.9716,-87.5711),new CityLocation("Davenport, IA",41.5236,-90.5776),new CityLocation("New Brunswick, NJ",40.4862,-74.4518),new CityLocation("Lockport, NY",43.1706,-78.6903),new CityLocation("St Paul, MN",44.9537,-93.0900),new CityLocation("Newport, KY",39.0914,-84.4958),new CityLocation("Waterbury, CT",41.5582,-73.0515),new CityLocation("Hoboken, NJ",40.7440,-74.0324),new CityLocation("Columbus, GA",32.4610,-84.9877),new CityLocation("Atlanta, GA",33.7490,-84.3880),new CityLocation("Erie, PA",42.1292,-80.0851),new CityLocation("St Joseph, MO",39.7675,-94.8467),new CityLocation("Wheeling, WV",40.0640,-80.7209),new CityLocation("Leavenworth, KS",39.3111,-94.9225),new CityLocation("Fort Wayne, IN",41.0793,-85.1394),new CityLocation("Springfield, IL",39.7817,-89.6501),new CityLocation("Scranton, PA",41.4090,-75.6624),new CityLocation("Kansas City, MO",39.0997,-94.5786),new CityLocation("Grand Rapids, MI",42.9634,-85.6681),new CityLocation("Terre Haute, IN",39.4667,-87.4139),new CityLocation("Omaha, NE",41.2565,-95.9345),new CityLocation("Williamsport, PA",41.2412,-77.0011),new CityLocation("Elmira, NY",42.0898,-76.8077),new CityLocation("Cohoes, NY",42.7742,-73.7001),new CityLocation("Burlington, IA",40.8077,-91.1129),new CityLocation("Oakland, CA",37.8044,-122.2712),new CityLocation("Somerville, MA",42.3876,-71.0995),new CityLocation("Wilkes-Barre, PA",41.2459,-75.8813),new CityLocation("Des Moines, IA",41.5868,-93.6250),new CityLocation("Galveston, TX",29.3013,-94.7977),new CityLocation("Holyoke, MA",42.2043,-72.6162),new CityLocation("Minneapolis, MN",44.9778,-93.2650),new CityLocation("Salt Lake City, UT",40.7608,-111.8910),new CityLocation("Springfield, OH",39.9242,-83.8088),new CityLocation("Bay City, MI",43.5945,-83.8889),new CityLocation("San Antonio, TX",29.4241,-98.4936),new CityLocation("Denver, CO",39.7392,-104.9903),new CityLocation("Lincoln, NE",40.8136,-96.7026),new CityLocation("Los Angeles, CA",34.0522,-118.2437),new CityLocation("Portland, OR",45.5051,-122.6750),new CityLocation("Saginaw, MI",43.4195,-83.9508),new CityLocation("Seattle, WA",47.6062,-122.3321),new CityLocation("Kansas City, KS",39.1155,-94.6268),new CityLocation("Dallas, TX",32.7767,-96.7970),new CityLocation("Sioux City, IA",42.4963,-96.4049),new CityLocation("Tacoma, WA",47.2529,-122.4443),new CityLocation("Binghamton, NY",42.0987,-75.9180),new CityLocation("Youngstown, OH",41.0998,-80.6495),new CityLocation("Duluth, MN",46.7867,-92.1005),new CityLocation("Yonkers, NY",40.9312,-73.8987),new CityLocation("Topeka, KS",39.0473,-95.6752),new CityLocation("Savannah GA",32.0809,-81.0912),new CityLocation("Houston, TX",29.7604,-95.3698),new CityLocation("Akron, OH",41.0814,-81.5190),new CityLocation("Brockton, MA",42.0834,-71.0184),new CityLocation("Pawtucket, RI",41.8787,-71.3826),new CityLocation("Altoona, PA",40.5187,-78.3947),new CityLocation("Birmingham, AL",33.5186,-86.8104),new CityLocation("Little Rock, AR",34.7465,-92.2896),new CityLocation("Spokane, WA",47.6588,-117.4260),new CityLocation("Youngstown, PA",40.2798,-79.3656),new CityLocation("Duluth MN",46.7867,-92.1005),new CityLocation("Fort Worth, TX",32.7555,-97.3308),new CityLocation("Oklahoma City, OK",35.4676,-97.5164),new CityLocation("East St Louis, IL",38.6245,-90.1506),new CityLocation("Jacksonville, FL",30.3322,-81.6557),new CityLocation("Bayonne, NJ",40.6687,-74.1143),new CityLocation("Johnstown, PA",40.3267,-78.9220),new CityLocation("Passaic, NJ",40.8568,-74.1285),new CityLocation("South Bend, IN",41.6764,-86.2520),new CityLocation("Flint, MI",43.0125,-83.6875),new CityLocation("Canton, OH",40.7989,-81.3784),new CityLocation("Knoxville, TN",35.9606,-83.9207),new CityLocation("El Paso, TX",31.7619,-106.4850),new CityLocation("San Diego, CA",32.7157,-117.1611),new CityLocation("Allentown, PA",40.6023,-75.4714),new CityLocation("Wichita, KS",37.6872,-97.3301),new CityLocation("Tulsa, OK",36.1540,-95.9928),new CityLocation("Long Beach, CA",33.7701,-118.1937),new CityLocation("Patterson, NJ",40.9168,-74.1718),new CityLocation("Chattanooga, TN",35.0456,-85.3097),new CityLocation("Miami, FL",25.7617,-80.1918),new CityLocation("Tampa, FL",27.9506,-82.4572),new CityLocation("Gary, IN",41.6020,-87.3372),new CityLocation("Rockford, IL",42.2711,-89.0940),new CityLocation("Elizabeth NJ",40.6640,-74.2107),new CityLocation("Charlotte, NC",35.2271,-80.8431),new CityLocation("Shreveport, LA",32.5252,-93.7502),new CityLocation("Spokane WA",47.6588,-117.4260),new CityLocation("Tacoma WA",47.2529,-122.4443),new CityLocation("Arlington, VA",38.8816,-77.0910),new CityLocation("Austin, TX",30.2672,-97.7431),new CityLocation("Baton Rouge, LA",30.4515,-91.1871),new CityLocation("Berkeley, CA",37.8715,-122.2730),new CityLocation("Corpus Christi, TX",27.8006,-97.3964),new CityLocation("Phoenix, AZ",33.4484,-112.0740),new CityLocation("Honolulu, HI",21.3069,-157.8583),new CityLocation("Tucson, AZ",32.2226,-110.9747),new CityLocation("San Jose, CA",37.3382,-121.8863),new CityLocation("Albuquerque, NM",35.0844,-106.6504),new CityLocation("St Petersburg, FL",27.7676,-82.6403),new CityLocation("Jackson, MS",32.2988,-90.1848),new CityLocation("Amarillo, TX",35.2220,-101.8313),new CityLocation("Fresno, CA",36.7378,-119.7871),new CityLocation("Lubbock, TX",33.5779,-101.8552),new CityLocation("Madison, WI",43.0731,-89.4012),new CityLocation("Greensboro, NC",36.0726,-79.7920),new CityLocation("Nashville-Davidson, TN",36.1627,-86.7816),new CityLocation("Warren, MI",42.5145,-83.0147),new CityLocation("Worcester MA",42.2626,-71.8023),new CityLocation("Virginia Beach, VA",36.8529,-75.9780),new CityLocation("Anaheim, CA",33.8366,-117.9143),new CityLocation("Santa Ana, CA",33.7455,-117.8677),new CityLocation("Lubbock TX",33.5779,-101.8552),new CityLocation("Riverside, CA",33.9806,-117.3755),new CityLocation("Fort Lauderdale, FL",26.1224,-80.1373),new CityLocation("Colorado Springs, CO",38.8339,-104.8214),new CityLocation("Lexington-Fayette, KY",38.0406,-84.5037),new CityLocation("Anchorage, AK",61.2181,-149.9003),new CityLocation("Huntington Beach, CA",33.6595,-117.9988),new CityLocation("Las Vegas, NV",36.1699,-115.1398),new CityLocation("Metairie, LA",29.9841,-90.1529),new CityLocation("Arlington, TX",32.7357,-97.1081),new CityLocation("Aurora, CO",39.7294,-104.8319),new CityLocation("Mesa, AZ",33.4152,-111.8315),new CityLocation("Stockton, CA",37.9577,-121.2908),new CityLocation("Hialeah, FL",25.8576,-80.2781),new CityLocation("Garland, TX",32.9126,-96.6389),new CityLocation("Glendale, CA",34.1425,-118.2551),new CityLocation("Bakersfield, CA",35.3733,-119.0187),new CityLocation("Fremont, CA",37.5485,-121.9886),new CityLocation("Plano, TX",33.0198,-96.6989),new CityLocation("Glendale, AZ",33.5387,-112.1860),new CityLocation("Scottsdale, AZ",33.4942,-111.9261),new CityLocation("Chesapeake, VA",36.7682,-76.2875),new CityLocation("Augusta-Richmond County, GA",33.4735,-82.0105),new CityLocation("Irving, TX",32.8140,-96.9489),new CityLocation("San AntonioTX",29.4241,-98.4936),new CityLocation("San Juan, PR",18.4655,-66.1057),new CityLocation("Henderson, NV",36.0395,-114.9817),new CityLocation("Saint Petersburg, FL",27.7676,-82.6403),new CityLocation("Chula Vista, CA",32.6401,-117.0842),new CityLocation("Orlando, FL",28.5383,-81.3792),new CityLocation("Chandler, AZ",33.3062,-111.8413),new CityLocation("Laredo, TX",27.5036,-99.5076),new CityLocation("Winston-Salem, NC",36.0999,-80.2442),new CityLocation("Durham, NC",35.9940,-78.8986),new CityLocation("Reno, NV",39.5296,-119.8138),new CityLocation("North Las Vegas, NV",36.1989,-115.1175),new CityLocation("Irvine, CA",33.6846,-117.8265),new CityLocation("San Bernardino, CA",34.1083,-117.2898)];
+
+var usPopulations = [3893635, 5308483, 7239881, 9638453, 12866020, 17069453, 23191876, 31443321, 38925598, 50189209, 62979766, 76212168, 92228496, 106021537, 123202624, 132164569, 150697361, 179323175, 203392031, 226545805, 248709873, 281421906, 308745538];
 var censuses = [data_1790, data_1800, data_1810, data_1820, data_1830, data_1840, data_1850, data_1860, data_1870, data_1880, data_1890, data_1900, data_1910, data_1920, data_1930, data_1940, data_1950, data_1960, data_1970, data_1980, data_1990, data_2000, data_2010];
 var cityPercents = percentInCities();
 
@@ -45,12 +54,30 @@ function percentInCities(){
     for (let j=0; j<censuses[i].length; j++){
       cityPop += censuses[i][j].population;
     }
-    cityPercents[i] = Math.round(((cityPop / us_populations[i]) * 100) * 10) / 10;
+    cityPercents[i] = Math.round(((cityPop / usPopulations[i]) * 100) * 10) / 10;
   }
   return cityPercents;
 }
 
+function getCurrentStats(name, year){
+  let index = (year-1790)/10;
+  for (let i=0; i<censuses[index].length; i++){
+    if (censuses[index][i].name == name){
+      var stats = [3];
+      stats[0] = censuses[index][i].population;
+      stats[1] = censuses[index][i].rank;
+      stats[2] = (censuses[index][i].population / usPopulations[index]) * 100;
+      return stats;
+    }
+  }
+  var stats = [3];
+  stats[0] = "N/A";
+  stats[1] = "N/A";
+  stats[2] = "N/A";
+  return stats;
+}
 
+var currentYear = 1790;
 
 require(["esri/Map",
          "esri/views/SceneView",
@@ -61,6 +88,26 @@ require(["esri/Map",
          "esri/widgets/Legend",
          "esri/smartMapping/symbology/size"],
 function (Map, SceneView, FeatureLayer, Graphic, Point, Slider, Legend, sizeSchemes) {
+
+  // popup template
+  var popupTemplate = {
+    // autocasts as new PopupTemplate()
+    title: "Population in {NAME}",
+    outFields: ["*"],
+    content: getInfo
+  };
+
+  function getInfo(feature) {
+    var div = document.createElement("div");
+    var name = feature.graphic.attributes.NAME;
+    var stats = getCurrentStats(name, currentYear);
+    div.innerHTML =
+      "<b>"+currentYear+"</b><br>"+
+      "Population: "+stats[0]+
+      "<br> Rank: "+stats[1]+
+      "<br> % of National Population: "+stats[2];
+    return div;
+  }
 
   // create layers
   function createCityLayer(){
@@ -92,6 +139,57 @@ function (Map, SceneView, FeatureLayer, Graphic, Point, Slider, Legend, sizeSche
    })
   }
 
+  var locationRenderer = {
+    type: "simple",
+    symbol: {
+      type: "point-3d",
+      symbolLayers: [
+        {
+          type: "object",
+          resource: {primitive: "cylinder"},
+          material: {color: "green"},
+          width: 10200
+        }
+      ],
+    },
+    label: "city location",
+    visualVariables: [
+      {
+        type: "opacity",
+        field: "OPACITY",
+        stops: [
+          {
+            opacity: 0,
+            value: 0
+          }
+        ]
+      }
+    ]
+  };
+
+  function createLocationLayer(){
+    return new FeatureLayer({
+      popupTemplate: popupTemplate,
+      renderer: locationRenderer,
+      source: getLocationGraphics(),
+      fields: [{
+       name: "ObjectID",
+       alias: "ObjectID",
+       type: "oid"
+     }, {
+       name: "NAME",
+       alias: "NAME",
+       type: "string"
+     }, {
+       name: "OPACITY",
+       alias: "OPACITY",
+       type: "double"
+     }],
+     objectIdField: "ObjectID",
+     geometryType: "point"
+   })
+  }
+
 
   // create graphics
   function getCityGraphics(){
@@ -112,25 +210,50 @@ function (Map, SceneView, FeatureLayer, Graphic, Point, Slider, Legend, sizeSche
     return new Graphic({
       geometry: location,
       attributes: {
-        POP_PERCENT: (city.population / us_populations[i]) * 100,
+        POP_PERCENT: (city.population / usPopulations[i]) * 100,
         POPULATION: city.population,
         RANK: city.rank,
         YEAR: 1790 + i*10
       },
-      POP_PERCENT: (city.population / us_populations[i]) * 100,
+      POP_PERCENT: (city.population / usPopulations[i]) * 100,
       POPULATION: city.population,
       RANK: city.rank,
       YEAR: 1790 + i*10
     })
   }
 
+  function getLocationGraphics(){
+    graphics = []
+    for (let i=0; i<cityLocations.length; i++){
+      graphics.push(locationToGraphic(cityLocations[i]));
+    }
+    return graphics;
+  }
+
+  function locationToGraphic(city){
+    const location = new Point({
+      latitude: city.lat,
+      longitude: city.long
+    });
+    return new Graphic({
+      geometry: location,
+      attributes: {
+        NAME: city.name,
+        OPACITY: 0
+      },
+      NAME: city.name,
+      OPACITY: 0
+    })
+  }
+
 
   // map and view setup
   var cityLayer = createCityLayer();
+  var locationLayer = createLocationLayer();
 
   var map = new Map({
     basemap: "dark-gray-vector",
-    layers: [cityLayer]
+    layers: [locationLayer, cityLayer]
   });
 
   var view = new SceneView({
@@ -140,14 +263,6 @@ function (Map, SceneView, FeatureLayer, Graphic, Point, Slider, Legend, sizeSche
     center: [-90.90614554667947, 38.44811777828268], // longitude, latitude
     zoom: 4.35
   });
-
-  var schemes = sizeSchemes.getSchemes({
-    basemap: map.basemap,
-    geometryType: cityLayer.geometryType
-  });
-
-  // the best default scheme for the layer and basemap
-  var primaryScheme = schemes.primaryScheme;
 
 
   // UI setup
@@ -204,8 +319,9 @@ function (Map, SceneView, FeatureLayer, Graphic, Point, Slider, Legend, sizeSche
     var rounded = parseFloat(value);
     rounded = Math.round(rounded/10) * 10
     value = rounded;
+    currentYear = value;
     sliderValue.innerHTML = value;
-    titleDiv.innerHTML = "US Population in "+value+": " + commaNumber(us_populations[(value-1790)/10])+"<br>Population in Largest Cities: "+cityPercents[(value-1790)/10]+"%";
+    titleDiv.innerHTML = "US Population in "+value+": " + commaNumber(usPopulations[(value-1790)/10])+"<br>Population in Largest Cities: "+cityPercents[(value-1790)/10]+"%";
     sliderValue.innerHTML = Math.floor(value);
     slider.viewModel.setValue(0, value);
     cityLayer.renderer = cityLayerRenderer(value);
@@ -218,7 +334,6 @@ function (Map, SceneView, FeatureLayer, Graphic, Point, Slider, Legend, sizeSche
   // renderer
   function cityLayerRenderer(year){
     return {
-      scheme: primaryScheme,
       type: "simple",
       symbol: {
         type: "point-3d",
