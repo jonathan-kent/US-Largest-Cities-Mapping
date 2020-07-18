@@ -1,0 +1,289 @@
+New York, NY;40.7128;-74.0060
+Fayetteville, NC;35.0527;-78.8784
+Philadelphia, PA;39.9526;-75.1652
+Elizabeth, NJ;40.6640;-74.2107
+Baltimore, MD;39.2904;-76.6122
+Spring Garden, PA;39.9657;-75.1688
+Boston, MA;42.3601;-71.0589
+New London, CT;41.3557;-72.0995
+New Orleans, LA;29.9511;-90.0715
+Harrisburg, PA;40.2732;-76.8867
+Charleston, SC;32.7765;-79.9311
+Norwich, CT;41.5243;-72.0759
+Northern Liberties, PA;39.9637;-75.1399
+Utica, NY;43.1009;-75.2327
+Southwark, PA;39.9383;-75.1472
+Carlisle, PA;40.2010;-77.2003
+Washington, DC;38.9072;-77.0369
+Raleigh, NC;35.7796;-78.6382
+Salem, MA;42.5195;-70.8967
+Wilmington, NC;34.2104;-77.8868
+Albany, NY;42.6526;-73.7562
+Middletown, CT;41.5623;-72.6506
+Richmond, VA;37.5407;-77.4360
+Providence, RI;41.8240;-71.4128
+Cincinnati, OH;39.1031;-84.5120
+Portland, ME;43.6591;-70.2568
+Norfolk, VA;36.8508;-76.2859
+Alexandria, VA;38.8048;-77.0469
+Savannah, GA;32.0809;-81.0912
+Georgetown, DC;38.9097;-77.0654
+Portsmouth, NH;43.0718;-70.7626
+Newport, RI;41.4901;-71.3128
+Nantucket, MA;41.2835;-70.0995
+Pittsburgh, PA;40.4406;-79.9959
+Brooklyn, NY;40.6782;-73.9442
+New Haven, CT;41.3083;-72.9279
+Kensington, PA;39.9934;-75.1180
+Newburyport, MA;42.8126;-70.8773
+Petersburg, VA;37.2279;-77.4019
+Lancaster, PA;40.0379;-76.3055
+Charlestown, MA;42.3782;-71.0602
+Gloucester, MA;42.6159;-70.6620
+Marblehead, MA;42.5000;-70.8578
+Hudson, NY;42.2529;-73.7910
+Lexington, KY;38.0406;-84.5037
+Troy, NY;42.7284;-73.6918
+Hartford, CT;41.7658;-72.6734
+Middleborough, MA;41.8930;-70.9108
+Taunton, MA;41.9001;-71.0898
+Lynn, MA;42.4668;-70.9495
+Plymouth, MA;41.9584;-70.6673
+Reading, PA;40.3356;-75.9269
+Beverly, MA;42.5584;-70.8800
+Roxbury, MA;42.3152;-71.0914
+Louisville, KY;38.2527;-85.7585
+New Bedford, MA;41.6362;-70.9342
+Trenton, NJ;40.2206;-74.7597
+Schenectady, NY;42.8142;-73.9396
+New Bern, NC;35.1085;-77.0441
+Frederick, MD;39.4143;-77.4105
+York, PA;39.9626;-76.7277
+Warwick, RI;41.7001;-71.4162
+Dover, NH;43.1979;-70.8737
+St Louis, MO;38.6270;-90.1994
+Lynchburg, VA;37.4138;-79.1422
+Andover, MA;42.6583;-71.1368
+Danvers, MA;42.5750;-70.9321
+Worcester, MA;42.2626;-71.8023
+Fall River, MA;41.7015;-71.1550
+Dorchester, MA;42.3016;-71.0676
+Newark, NJ;40.7357;-74.1724
+Rochester, NY;43.1566;-77.6088
+Easton, PA;40.6884;-75.2207
+Buffalo, NY;42.8864;-78.8784
+Hagerstown, MD;39.6418;-77.7200
+Columbia, SC;34.0007;-81.0348
+Fredericksburg, VA;38.3032;-77.4605
+Mobile, AL;30.6954;-88.0399
+Zanesville, OH;39.9403;-82.0132
+Dayton, OH;39.7589;-84.1916
+Steubenville, OH;40.3698;-80.6340
+Chillicothe, OH;39.3331;-82.9824
+Allegheny, PA;40.4451;-80.0088
+Natchez, MS;31.5604;-91.4032
+Moyamensing, PA;39.9204;-75.1648
+Annapolis, MD;38.9784;-76.4922
+Springfield, MA;42.1015;-72.5898
+Augusta, GA;33.4735;-82.0105
+Lowell, MA;42.6334;-71.3162
+Cambridge, MA;42.3736;-71.1097
+Nashville, TN;36.1627;-86.7816
+Wheeling, VA;40.0640;-80.7209
+Paterson, NJ;40.9168;-74.1718
+Portsmouth, VA;36.8354;-76.2983
+Cleveland, OH;41.4993;-81.6944
+Nashua, NH;42.7654;-71.4676
+Columbus, OH;39.9612;-82.9988
+Auburn, NY;42.9317;-76.5661
+Augusta, ME;44.3106;-69.7795
+Cumberland, RI;41.9722;-71.4062
+Bath, ME;43.9106;-69.8206
+Gardiner, ME;44.2301;-69.7753
+Concord, NH;43.2081;-71.5376
+Detroit, MI;42.3314;-83.0458
+Chicago, IL;41.8781;-87.6298
+Bangor, ME;44.8016;-68.7712
+Pottsville, PA;40.6856;-76.1955
+Haverhill, MA;42.7762;-71.0773
+Barnstable, MA;41.7003;-70.3002
+Wilmington, DE;39.7447;-75.5484
+New Albany, IN;38.2856;-85.8241
+Manchester, NH;42.9956;-71.4548
+Oswego, NY;43.4553;-76.5105
+Poughkeepsie, NY;41.7004;-73.9210
+Camden, NJ;39.9259;-75.1196
+Covington, KY;39.0837;-84.5086
+Williamsburgh, NY;40.7081;-73.9571
+Memphis, TN;35.1495;-90.0490
+Montgomery, AL;32.3792;-86.3077
+Syracuse, NY;43.0481;-76.1474
+Chicopee MA;42.1487;-72.6079
+Lawrence, MA;42.7070;-71.1631
+Milwaukee, WI;43.0389;-87.9065
+Indianapolis, IN;39.7684;-86.1581
+Madison, IN;38.7359;-85.3800
+North Providence, RI;41.8536;-71.4677
+Watervliet, NY;42.7301;-73.7012
+San Francisco, CA;37.7749;-122.4194
+Peoria, IL;40.6936;-89.5890
+Lafayette, LA;30.2241;-92.0198
+Sacramento, CA;38.5816;-121.4944
+Toledo, OH;41.6528;-83.5379
+Quincy, IL;39.9356;-91.4099
+Chelsea, MA;42.3918;-71.0328
+Dubuque, IA;42.5023;-90.6655
+Newburgh, NY;41.5034;-74.0104
+Jersey City, NJ;40.7178;-74.0431
+Bridgeport, CT;41.1792;-73.1894
+Evansville, IN;37.9716;-87.5711
+Davenport, IA;41.5236;-90.5776
+New Brunswick, NJ;40.4862;-74.4518
+Lockport, NY;43.1706;-78.6903
+St Paul, MN;44.9537;-93.0900
+Newport, KY;39.0914;-84.4958
+Waterbury, CT;41.5582;-73.0515
+Hoboken, NJ;40.7440;-74.0324
+Columbus, GA;32.4610;-84.9877
+Atlanta, GA;33.7490;-84.3880
+Erie, PA;42.1292;-80.0851
+St Joseph, MO;39.7675;-94.8467
+Wheeling, WV;40.0640;-80.7209
+Leavenworth, KS;39.3111;-94.9225
+Fort Wayne, IN;41.0793;-85.1394
+Springfield, IL;39.7817;-89.6501
+Scranton, PA;41.4090;-75.6624
+Kansas City, MO;39.0997;-94.5786
+Grand Rapids, MI;42.9634;-85.6681
+Terre Haute, IN;39.4667;-87.4139
+Omaha, NE;41.2565;-95.9345
+Williamsport, PA;41.2412;-77.0011
+Elmira, NY;42.0898;-76.8077
+Cohoes, NY;42.7742;-73.7001
+Burlington, IA;40.8077;-91.1129
+Oakland, CA;37.8044;-122.2712
+Somerville, MA;42.3876;-71.0995
+Wilkes-Barre, PA;41.2459;-75.8813
+Des Moines, IA;41.5868;-93.6250
+Galveston, TX;29.3013;-94.7977
+Holyoke, MA;42.2043;-72.6162
+Minneapolis, MN;44.9778;-93.2650
+Salt Lake City, UT;40.7608;-111.8910
+Springfield, OH;39.9242;-83.8088
+Bay City, MI;43.5945;-83.8889
+San Antonio, TX;29.4241;-98.4936
+Denver, CO;39.7392;-104.9903
+Lincoln, NE;40.8136;-96.7026
+Los Angeles, CA;34.0522;-118.2437
+Portland, OR;45.5051;-122.6750
+Saginaw, MI;43.4195;-83.9508
+Seattle, WA;47.6062;-122.3321
+Kansas City, KS;39.1155;-94.6268
+Dallas, TX;32.7767;-96.7970
+Sioux City, IA;42.4963;-96.4049
+Tacoma, WA;47.2529;-122.4443
+Binghamton, NY;42.0987;-75.9180
+Youngstown, OH;41.0998;-80.6495
+Duluth, MN;46.7867;-92.1005
+Yonkers, NY;40.9312;-73.8987
+Topeka, KS;39.0473;-95.6752
+Savannah GA;32.0809;-81.0912
+Houston, TX;29.7604;-95.3698
+Akron, OH;41.0814;-81.5190
+Brockton, MA;42.0834;-71.0184
+Pawtucket, RI;41.8787;-71.3826
+Altoona, PA;40.5187;-78.3947
+Birmingham, AL;33.5186;-86.8104
+Little Rock, AR;34.7465;-92.2896
+Spokane, WA;47.6588;-117.4260
+Youngstown, PA;40.2798;-79.3656
+Duluth MN;46.7867;-92.1005
+Fort Worth, TX;32.7555;-97.3308
+Oklahoma City, OK;35.4676;-97.5164
+East St Louis, IL;38.6245;-90.1506
+Jacksonville, FL;30.3322;-81.6557
+Bayonne, NJ;40.6687;-74.1143
+Johnstown, PA;40.3267;-78.9220
+Passaic, NJ;40.8568;-74.1285
+South Bend, IN;41.6764;-86.2520
+Flint, MI;43.0125;-83.6875
+Canton, OH;40.7989;-81.3784
+Knoxville, TN;35.9606;-83.9207
+El Paso, TX;31.7619;-106.4850
+San Diego, CA;32.7157;-117.1611
+Allentown, PA;40.6023;-75.4714
+Wichita, KS;37.6872;-97.3301
+Tulsa, OK;36.1540;-95.9928
+Long Beach, CA;33.7701;-118.1937
+Patterson, NJ;40.9168;-74.1718
+Chattanooga, TN;35.0456;-85.3097
+Miami, FL;25.7617;-80.1918
+Tampa, FL;27.9506;-82.4572
+Gary, IN;41.6020;-87.3372
+Rockford, IL;42.2711;-89.0940
+Elizabeth NJ;40.6640;-74.2107
+Charlotte, NC;35.2271;-80.8431
+Shreveport, LA;32.5252;-93.7502
+Spokane WA;47.6588;-117.4260
+Tacoma WA;47.2529;-122.4443
+Arlington, VA;38.8816;-77.0910
+Austin, TX;30.2672;-97.7431
+Baton Rouge, LA;30.4515;-91.1871
+Berkeley, CA;37.8715;-122.2730
+Corpus Christi, TX;27.8006;-97.3964
+Phoenix, AZ;33.4484;-112.0740
+Honolulu, HI;21.3069;-157.8583
+Tucson, AZ;32.2226;-110.9747
+San Jose, CA;37.3382;-121.8863
+Albuquerque, NM;35.0844;-106.6504
+St Petersburg, FL;27.7676;-82.6403
+Jackson, MS;32.2988;-90.1848
+Amarillo, TX;35.2220;-101.8313
+Fresno, CA;36.7378;-119.7871
+Lubbock, TX;33.5779;-101.8552
+Madison, WI;43.0731;-89.4012
+Greensboro, NC;36.0726;-79.7920
+Nashville-Davidson, TN;36.1627;-86.7816
+Warren, MI;42.5145;-83.0147
+Worcester MA;42.2626;-71.8023
+Virginia Beach, VA;36.8529;-75.9780
+Anaheim, CA;33.8366;-117.9143
+Santa Ana, CA;33.7455;-117.8677
+Lubbock TX;33.5779;-101.8552
+Riverside, CA;33.9806;-117.3755
+Fort Lauderdale, FL;26.1224;-80.1373
+Colorado Springs, CO;38.8339;-104.8214
+Lexington-Fayette, KY;38.0406;-84.5037
+Anchorage, AK;61.2181;-149.9003
+Huntington Beach, CA;33.6595;-117.9988
+Las Vegas, NV;36.1699;-115.1398
+Metairie, LA;29.9841;-90.1529
+Arlington, TX;32.7357;-97.1081
+Aurora, CO;39.7294;-104.8319
+Mesa, AZ;33.4152;-111.8315
+Stockton, CA;37.9577;-121.2908
+Hialeah, FL;25.8576;-80.2781
+Garland, TX;32.9126;-96.6389
+Glendale, CA;34.1425;-118.2551
+Bakersfield, CA;35.3733;-119.0187
+Fremont, CA;37.5485;-121.9886
+Plano, TX;33.0198;-96.6989
+Glendale, AZ;33.5387;-112.1860
+Scottsdale, AZ;33.4942;-111.9261
+Chesapeake, VA;36.7682;-76.2875
+Augusta-Richmond County, GA;33.4735;-82.0105
+Irving, TX;32.8140;-96.9489
+San AntonioTX;29.4241;-98.4936
+San Juan, PR;18.4655;-66.1057
+Henderson, NV;36.0395;-114.9817
+Saint Petersburg, FL;27.7676;-82.6403
+Chula Vista, CA;32.6401;-117.0842
+Orlando, FL;28.5383;-81.3792
+Chandler, AZ;33.3062;-111.8413
+Laredo, TX;27.5036;-99.5076
+Winston-Salem, NC;36.0999;-80.2442
+Durham, NC;35.9940;-78.8986
+Reno, NV;39.5296;-119.8138
+North Las Vegas, NV;36.1989;-115.1175
+Irvine, CA;33.6846;-117.8265
+San Bernardino, CA;34.1083;-117.2898
